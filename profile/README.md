@@ -8,7 +8,7 @@ codebase as much as possible, changing only the portions of code related to conf
 
 ## Goals and Guidelines
 
-There may be some ricing-related projects here that are not a fork of any pre-existing repo, such as website-theming tools or tools related to color themes and keybindigns in general. Every project that is a fork should be named as follows: <name>-customizable, where <name> is the original name of the repo that was forked.
+There may be some ricing-related projects here that are not a fork of any pre-existing repo, such as website-theming tools or tools related to color themes and keybindings in general. Every project that is a fork should be named as follows: `<name>-customizable`, where `<name>` is the original name of the repo that was forked.
 
 All deviations from the original codebases should be well-documented, with example configurations provided. Refer users to the original documentation for everything else. Configuration should follow an established structured format or language that makes sense for the application in question, typically one of the following:
 * [KDL](https://kdl.dev/) - relatively new, but very nice design

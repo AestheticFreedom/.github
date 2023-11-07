@@ -38,6 +38,7 @@ No donations will be accepted. This is a community-driven effort and a labor of 
   - WIP
  
 * Planned forks:
+  - [jupyter qtconsole](https://qtconsole.readthedocs.io/) - nice client for Jupyter notebooks written in Python using the QT framework
   - [freetube](https://freetubeapp.io/) - desktop YouTube client written in Electron; adblock still works perfectly as on November 2023; nice simple design
   - [gitnuro](https://github.com/JetpackDuba/Gitnuro) - GUI git client written in Kotlin
   - [xplorer](https://xplorer.space/) - amazing and aesthetic GUI file explorer, just needs more customizable keybindings, maybe alternative vim-style defaults

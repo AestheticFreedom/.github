@@ -6,6 +6,10 @@ This organization maintains forks of excellent free and open-source (typically d
 In the quest for the perfect desktop environment on Linux, it is desirable to make apps keyboard-driven as much as poassible and to make them follow a coherent color theme. The apps contained here follow the original
 codebase as much as possible, changing only the portions of code related to configuration.
 
+Please note that this is intended for personal use. In keeping with the ["Please don't theme our apps"](https://stopthemingmy.app/) open letter, these forks should not be distributed with Linux distributions, and if you use a fork from here, never report a bug to the upstream developer unless you are certain that it is in no way related to the portions of code that have been modified, i.e. only raise issues on the upstream repos when you can reproduce the error in the non-fork app. Conversely, only report bugs here when you are reasonably certain it is a bug caused by the modified portions of the code.
+
+Another nota bene: This organization favors customizability of colors and favors modification of icons primarily when adaptation to a given color scheme is necessary; out of respect to the app designers, it is desirable to keep the semantics as intended by the original devlopers.
+
 ## Goals and Guidelines
 
 There may be some ricing-related projects here that are not a fork of any pre-existing repo, such as website-theming tools or tools related to color themes and keybindings in general. Every project that is a fork should be named as follows: `<name>-customizable`, where `<name>` is the original name of the repo that was forked.

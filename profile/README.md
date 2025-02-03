@@ -1,5 +1,7 @@
 # Oryzotropheo
 
+> Current status (Feb 2025): dormant but not forgotten. Expect more active development in a few months.
+
 Resources for avid ricers and power users - including more riceable forks of existing software.
 
 This organization maintains forks of excellent free and open-source (typically desktop but sometimes CLI) applications that are perfect in every way, except that they lack accessible file-based options for configuration. 
